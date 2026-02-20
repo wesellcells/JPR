@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.robocodslice",
+  "appName": "Robocod Slice",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
